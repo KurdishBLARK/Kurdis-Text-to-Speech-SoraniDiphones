@@ -1,5 +1,4 @@
 # Kurdis Text to Speech (Sorani Diphones)
-Owner : Raheel Qader, Hossein Hassani
 
 The diphones could be used to develop text to speech systems in Sorani Kurdish.
 They were used in the development of a TTS system in 2011.
