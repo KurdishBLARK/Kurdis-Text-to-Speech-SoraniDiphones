@@ -1,0 +1,1 @@
+# Kurdis-Text-to-Speech-Sorai-Diphones-
